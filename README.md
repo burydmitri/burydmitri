@@ -24,4 +24,4 @@
 
 <br />
 
-<img align="left" alt="GitHub Stats" src="https://burydmitri.vercel.app/api?username=burydmitri&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://burydmitri.burydmitri.vercel.app/api?username=burydmitri&show_icons=true&hide_border=true" />

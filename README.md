@@ -24,4 +24,4 @@
 
 <br />
 
-(https://github-readme-stats.vercel.app/api?username=burydmitri)](https://github.com/burydmitri/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=burydmitri&show_icons=true" />

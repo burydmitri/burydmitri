@@ -24,4 +24,4 @@
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=burydmitri)](https://github.com/burydmitri/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=burydmitri)](https://github.com/burydmitri/github-readme-stats)

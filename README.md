@@ -1,7 +1,7 @@
 ### Hi there, I'm Dima 👋
 
 ### I'm a Junior Frontend Developer 😄
-- 🌱 I’m currently learning Vue 3, Pug/Sass
+- 🌱 I’m currently learning Vue 3, Sass
 - 👯 I’m looking to collaborate with people, who want to do little creative projects
 - 🥅 2020/2021 goals: be happy and go to a good university
 - ⚡ Fun fact: I play guitar and accordion
